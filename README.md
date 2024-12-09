@@ -15,7 +15,11 @@
 ###
 <h2 align="center"> Projects I have contributed to </h2>
 
-&#8226; 🎵 Analysis of Spotify Genres Through Advanced Data Mining Techniques
+Courses:
+&#8226; 🎵 Analysis of Spotify genres through Data Mining techniques. [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
+
+
+
 
 ###
 
