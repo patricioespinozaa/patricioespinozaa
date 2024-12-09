@@ -1,16 +1,23 @@
-<h1 align="left">Hello there! 👋 </h1>
+<h1 align="center">Hello there! 👋</h1>
 
-###
+---
 
-<p align="center">My name is Patricio and I'm a Computer Science Engineering Student at University of Chile.</p>
+<p align="center">
+  My name is **Patricio**, and I'm a Computer Science Engineering Student at the **University of Chile**.
+</p>
 
-###
+---
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
-###
+---
 
-<p align="left">✨ I'm interested in IA, Data Science and Software development <br>📚 I'm currently learning more about Web Development<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.-</p>
+<p align="left">
+  ✨ I’m passionate about **AI**, **Data Science**, and **Software Development**.  
+  📚 Currently, I am expanding my knowledge in **Web Development**.  
+  🎯 I aspire to contribute to **interesting**, **challenging**, and **high-impact projects**.
+</p>
+
 
 ###
 <h2 align="center">Projects I Have Contributed To</h2>
