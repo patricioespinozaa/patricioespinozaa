@@ -16,11 +16,11 @@
 <h2 align="center"> Projects I have contributed to </h2>
 
 Courses: <br>
-&#8226; 🪐 Space navigation: The Solar System-and its Dynamics [Computer Graphics]. [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
-&#8226; 🎵 Analysis of Spotify genres through Data Mining techniques. [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
-&#8226; 🐾 Busca Patitas. [Software Engineering]. [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
-&#8226; 🏎️ F1-Data-Between-1985-and-2020. [Database]. [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
-
+&#8226; 🪐 Space navigation: The Solar System-and its Dynamics [Computer Graphics]. [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics) <br>
+&#8226; 🎵 Analysis of Spotify genres through Data Mining techniques. [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos) <br>
+&#8226; 🐾 Busca Patitas. [Software Engineering]. [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas) <br>
+&#8226; 🏎️ F1-Data-Between-1985-and-2020. [Database]. [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020) <br>
+ 
 
 
 ###
