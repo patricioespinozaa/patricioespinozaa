@@ -1,15 +1,10 @@
 <h1 align="center">Hello there! 👋</h1>
-
 ---
-
 <p align="center">
   My name is **Patricio**, and I'm a Computer Science Engineering Student at the **University of Chile**.
 </p>
-
 ---
-
 <h2 align="center">About Me</h2>
-
 ---
 <p align="left">✨ I'm interested in IA, Data Science and Software development <br>📚 I'm currently learning more about Web Development<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.-</p>
 
