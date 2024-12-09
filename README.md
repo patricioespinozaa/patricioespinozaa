@@ -14,7 +14,7 @@
 
 ###
 <h2 align="center"> Projects I have contributed to </h2>
-Projects:
+Projects: <br>
 &#8226; ETHICS UNIT FCFM [View](https://github.com/patricioespinozaa/ETHICS-FCFM)
 
 Course Projects: <br>
