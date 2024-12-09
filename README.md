@@ -22,20 +22,20 @@
 - &#8226; **ETHICS UNIT FCFM**  
 
 ### Course Projects:
-- &#8226; 🪐 **Space Navigation: The Solar System and its Dynamics** [Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
-- &#8226; 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
-- &#8226; 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
-- &#8226; 🏎️ **F1 Data (1985–2020)** [Database] [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
+- 🪐 **Space Navigation: The Solar System and its Dynamics** [Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
+- 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
+- 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
+- 🏎️ **F1 Data (1985–2020)** [Database] [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
 
 ### If you are a student, you can also check out past assignments I’ve done::
-- &#8226; **CC4102 Design and Analysis of Algorithms** [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms)
-- &#8226; **CC4302 Operating Systems** [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems)
-- &#8226; **CC5205 Data Mining** [View](https://github.com/patricioespinozaa/CC5205-Data-Mining)
-- &#8226; **CC3301 System Software Programming** [View](https://github.com/patricioespinozaa/CC3301-System-Software-Programming)
+- **CC4102 Design and Analysis of Algorithms** [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms)
+- **CC4302 Operating Systems** [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems)
+- **CC5205 Data Mining** [View](https://github.com/patricioespinozaa/CC5205-Data-Mining)
+- **CC3301 System Software Programming** [View](https://github.com/patricioespinozaa/CC3301-System-Software-Programming)
 
 ### Electives:
-- &#8226; **CC6205 Natural Language Processing (NLP)** [View](https://github.com/patricioespinozaa/CC6205-Natural-Language-Processing)
-- &#8226; **CC7220 The Web of Data** [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data)
+- **CC6205 Natural Language Processing (NLP)** [View](https://github.com/patricioespinozaa/CC6205-Natural-Language-Processing)
+- **CC7220 The Web of Data** [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data)
 
 ###
 
