@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left">✨ I'm interested in IA, Data Science and Software development <br>📚 I'm currently learning more about Web Development<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.-</p>
+<p align="left">✨ I'm interested in IA, Data Science and Software development. <br>📚 I'm currently learning more about Web Development.<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.</p>
 
 
 ###
