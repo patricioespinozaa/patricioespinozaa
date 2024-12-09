@@ -15,7 +15,7 @@
 ###
 <h2 align="center"> Projects I have contributed to </h2>
 
-$ \cdot $ 🎵 Analysis of Spotify Genres Through Advanced Data Mining Techniques
+&#8226; 🎵 Analysis of Spotify Genres Through Advanced Data Mining Techniques
 
 ###
 
