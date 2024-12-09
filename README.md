@@ -27,7 +27,7 @@
 - &#8226; 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
 - &#8226; 🏎️ **F1 Data (1985–2020)** [Database] [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
 
-### Past Assignments (For Students):
+### If you are a student, you can also check out past assignments I’ve done::
 - &#8226; **CC4102 Design and Analysis of Algorithms** [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms)
 - &#8226; **CC4302 Operating Systems** [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems)
 - &#8226; **CC5205 Data Mining** [View](https://github.com/patricioespinozaa/CC5205-Data-Mining)
