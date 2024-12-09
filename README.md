@@ -21,12 +21,13 @@ Project Courses: <br>
 &#8226; 🐾 Busca Patitas. [Software Engineering]. [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas) <br>
 &#8226; 🏎️ F1-Data-Between-1985-and-2020. [Database]. [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020) <br>
  
-"If you are a student, you can also check out past assignments I’ve done:":<br>
+If you are a student, you can also check out past assignments I’ve done: <br>
+&#8226; CC4102 Design and Analysis of Algorithms [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms) <br> 
 &#8226; CC4302 Operating Systems [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems) <br>
 &#8226; CC3301 System Software Programming [View](https://github.com/patricioespinozaa/CC3301-System-Software-Programming) <br>
-&#8226; CC4102 Design and Analysis of Algorithms [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms) <br> 
-
-
+Electives: <br>
+&#8226; CC6205 Natural Language Processing (NLP) [View](https://github.com/patricioespinozaa/CC6205-Natural-Language-Processing) <br>
+&#8226; CC7220 The Web of Data [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data) <br>
 ###
 
 <h2 align="left">I code with</h2>
