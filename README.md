@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  My name is **Patricio**, and I'm a Computer Science Engineering Student at the **University of Chile**.
+  My name is Patricio, and I'm a Computer Science Engineering Student at the University of Chile.
 </p>
 
 ---
