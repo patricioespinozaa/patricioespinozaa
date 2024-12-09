@@ -15,6 +15,8 @@
 ###
 <h2 align="center"> Projects I have contributed to </h2>
 
+$ \cdot $ 🎵 Analysis of Spotify Genres Through Advanced Data Mining Techniques
+
 ###
 
 <h2 align="left">I code with</h2>
