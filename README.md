@@ -11,12 +11,7 @@
 <h2 align="center">About Me</h2>
 
 ---
-
-<p align="left">
-  ✨ I’m passionate about **AI**, **Data Science**, and **Software Development**.  
-  📚 Currently, I am expanding my knowledge in **Web Development**.  
-  🎯 I aspire to contribute to **interesting**, **challenging**, and **high-impact projects**.
-</p>
+<p align="left">✨ I'm interested in IA, Data Science and Software development <br>📚 I'm currently learning more about Web Development<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.-</p>
 
 
 ###
