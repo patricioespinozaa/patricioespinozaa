@@ -13,6 +13,9 @@
 <p align="left">✨ I'm interested in IA, Data Science and Software development <br>📚 I'm currently learning more about Web Development<br>🎯 I aspire to contribute to interesting, challenging, and high-impact projects.-</p>
 
 ###
+<h2 align="center"> Projects I have contributed to </h2>
+
+###
 
 <h2 align="left">I code with</h2>
 
