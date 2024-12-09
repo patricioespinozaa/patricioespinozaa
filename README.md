@@ -15,7 +15,7 @@
 ###
 <h2 align="center"> Projects I have contributed to </h2>
 Projects: <br>
-&#8226; [ETHICS UNIT FCFM - View](https://github.com/patricioespinozaa/ETHICS-FCFM)
+&#8226; ETHICS UNIT FCFM
 
 Course Projects: <br>
 &#8226; 🪐 Space navigation: The Solar System-and its Dynamics [Computer Graphics]. [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics) <br>
