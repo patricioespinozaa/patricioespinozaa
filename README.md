@@ -19,7 +19,8 @@
 <h2 align="center">Projects I Have Contributed To</h2>
 
 ### Projects:
-- **ETHICS UNIT FCFM**  
+- **ETHICS UNIT FCFM**
+- **Computer Vision Astro-Datatón** [View](https://github.com/ElVichoSiu/Astro-Dataton_2024)
 
 ### Course Projects:
 - 🪐 **Space Navigation: The Solar System and its Dynamics** [Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
