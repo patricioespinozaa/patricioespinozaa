@@ -23,6 +23,7 @@
 - **Astro-Datatón UTSFM 2024** [Computer Vision] [View](https://github.com/ElVichoSiu/Astro-Dataton_2024)
 
 ### Course Projects:
+- 📺 **STREAMFUSION RDF** [The Web of Data] [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data/tree/main/Project)
 - 🪐 **Space Navigation: The Solar System and its Dynamics** [Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
 - 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
 - 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
