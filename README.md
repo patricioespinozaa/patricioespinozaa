@@ -24,7 +24,7 @@
 
 ### Course Projects:
 - 📺 **STREAMFUSION RDF** [The Web of Data] [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data/tree/main/Project)
-- 🪐 **Space Navigation: The Solar System and its Dynamics** [Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
+- 🪐 **Space Navigation: The Solar System and its Dynamics** [Modeling and Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
 - 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
 - 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
 - 🏎️ **F1 Data (1985–2020)** [Database] [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
