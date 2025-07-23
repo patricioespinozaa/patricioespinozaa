@@ -23,19 +23,23 @@
 - **Astro-Datatón UTSFM 2024** [Computer Vision] [View](https://github.com/ElVichoSiu/Astro-Dataton_2024)
 
 ### Course Projects:
+- 📸 **FACEGATE** [AI Project Workshop] [View](https://github.com/patricioespinozaa/FaceGate)
 - 📺 **STREAMFUSION RDF** [The Web of Data] [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data/tree/main/Project)
 - 🪐 **Space Navigation: The Solar System and its Dynamics** [Modeling and Computer Graphics] [View](https://github.com/patricioespinozaa/CC3501-Computer-Graphics-Space-Navigation-The-Solar-System-and-Its-Dynamics)
 - 🎵 **Analysis of Spotify Genres through Data Mining Techniques** [Data Mining] [View](https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos)
 - 🐾 **Busca Patitas** [Software Engineering] [View](https://github.com/patricioespinozaa/CC4401-Software-Engineering-Proyecto-Busca-Patitas)
 - 🏎️ **F1 Data (1985–2020)** [Database] [View](https://github.com/patricioespinozaa/CC3201-Database-Project-F1-Data-Between-1985-and-2020)
 
-### If you are a student, you can also check out past assignments I’ve done::
+### If you are a student, you can also check out past assignments I’ve done:
+- **CC4303 Networks** [View](https://github.com/patricioespinozaa/CC4303-Networks)
+- **Programming Languages** [View](https://github.com/patricioespinozaa/CC4101-Programming-Languages)
 - **CC4102 Design and Analysis of Algorithms** [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms)
 - **CC4302 Operating Systems** [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems)
 - **CC5205 Data Mining** [View](https://github.com/patricioespinozaa/CC5205-Data-Mining)
 - **CC3301 System Software Programming** [View](https://github.com/patricioespinozaa/CC3301-System-Software-Programming)
 
 ### Electives:
+- **CC5213 Multimedia Information Retrieval** [View](https://github.com/patricioespinozaa/CC5213-Multimedia-Information-Retrieval)
 - **CC6205 Natural Language Processing (NLP)** [View](https://github.com/patricioespinozaa/CC6205-Natural-Language-Processing)
 - **CC7220 The Web of Data** [View](https://github.com/patricioespinozaa/CC7220-The-Web-Of-Data)
 
