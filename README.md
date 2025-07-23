@@ -32,7 +32,7 @@
 
 ### If you are a student, you can also check out past assignments I’ve done:
 - **CC4303 Networks** [View](https://github.com/patricioespinozaa/CC4303-Networks)
-- **Programming Languages** [View](https://github.com/patricioespinozaa/CC4101-Programming-Languages)
+- **CC4101 Programming Languages** [View](https://github.com/patricioespinozaa/CC4101-Programming-Languages)
 - **CC4102 Design and Analysis of Algorithms** [View](https://github.com/patricioespinozaa/CC4102-Design-and-Analysis-of-Algorithms)
 - **CC4302 Operating Systems** [View](https://github.com/patricioespinozaa/CC4302-Operating-Systems)
 - **CC5205 Data Mining** [View](https://github.com/patricioespinozaa/CC5205-Data-Mining)
